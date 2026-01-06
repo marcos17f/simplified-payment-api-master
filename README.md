@@ -17,10 +17,6 @@
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/marcos17f/simplified-payment-api-master.git
-```
-
 2. Install dependencies with Maven
 
 ## Usage
